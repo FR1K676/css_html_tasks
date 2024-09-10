@@ -1,0 +1,44 @@
+.main{
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+    font-weight: normal;
+}
+p{
+    font-size: 30px;
+    line-height: 15px;
+}
+.arial{
+    font-family: "Arial";
+    line-height: 15px;
+}
+.georg{
+    font-family: "Georgia";
+    line-height: 15px;
+}
+.verdana{
+    font-family: "Verdana";
+    line-height: 15px;
+}
+.trebuchet{
+    font-family: "Trebuchet MS";
+    line-height: 15px;
+}
+.impact{
+    font-family: "Impact";
+    line-height: 15px;
+}
+.arialblack{
+    font-family: "Arial Black";
+    line-height: 15px;
+}
+.comicsans{
+    font-family: "Comic Sans MS";
+    line-height: 15px;
+}
+.couriernew{
+    font-family: "Courier New";
+    line-height: 15px;
+}
