@@ -1,0 +1,54 @@
+.eee i{
+    color:red;
+}
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+.suc{
+    color: green;
+}
+.err{
+    color:red;
+}
+.lar{
+    font-size: 90px;
+}
+#elem1{
+    color:red;
+}
+#elem2{
+    color:green;
+}
+#elem3{
+    color:blue;
+}
+#block{
+    color:red;
+}
+.text{
+    text-align: center;
+}
+#elem h2{
+    color:red;
+}
+#elem123 .text{
+    color:red;
+}
+#elem1234 .text{
+    color:red;
+}
+#elem12345 .text{
+    color:red;
+}
+.eeeee.zzzzz.ccccc{
+    color:red;
+}

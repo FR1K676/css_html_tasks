@@ -1,0 +1,39 @@
+.block{
+    color:red;
+}
+.block1 h2{
+    color:red;
+}
+#block p{
+    color:red;
+}
+#block1 h2{
+    color:red;
+}
+.bbb{
+    color:red;
+}
+#block2, .bbb{
+    color:red;
+}
+#block3 p{
+    color:red;
+}
+#block4 h2{
+    color:red;
+}
+#block5, .bbb p{
+    color:red;
+}
+#elem+li{
+    color:red;
+}
+.elem1+li{
+    color:red;
+}
+#elem2 ~ li{
+    color:red;
+}
+main>*{
+    color:red;
+}

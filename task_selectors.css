@@ -1,0 +1,44 @@
+.nasledie1{
+    color: blue;
+}
+.nasledie2{
+    color: blue;
+}
+.bold{
+    color: red;
+}
+.bolda{
+    color:red;
+}
+.nasledie3{
+    color: blue;
+}
+.nasledie4{
+    color:blue;
+}
+.nasledie5{
+    color:blue;
+}
+ul{
+    font-size: 20px;
+}
+li{
+    color: red;
+    font-weight: bold;
+}
+i{
+    font-size: 30px;
+}
+.s1, .s2, .s3, .s4{
+    text-align: center;
+}
+.s2{
+    color:blue;
+}
+.s3{
+    font-size: 16px;
+    color:red;
+}
+.s4{
+    color: red;
+}
