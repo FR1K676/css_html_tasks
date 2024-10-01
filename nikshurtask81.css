@@ -1,0 +1,80 @@
+.task82 a:hover{
+    color: red;
+    text-decoration: none;
+}
+.task82 a:link{
+    color: blue;
+}
+.task82 a:visited{
+    color: green;
+}
+.task82 a:active{
+    color: black;
+}
+.task84 a:hover{
+    color:red;
+    text-decoration: underline;
+}
+.task84 a:active, a:link, a:visited{
+    color:blue;
+}
+.task1 li:first-child{
+    color:red;
+}
+.task2 li:last-child{
+    color:green;
+}
+.task3 li:first-child{
+    color:red
+}
+.task3 li:last-child{
+    color: green;
+}
+.task4 li:nth-child(3){
+    color:red;
+}
+.task5 li:nth-child(odd){
+    color:red;
+}
+.task5 li:nth-child(even){
+    color:green;
+}
+.task6 li:nth-child(3){
+    color:red;
+}
+.task6 li:nth-child(6){
+    color:red;
+}
+.task6 li:nth-child(9){
+    color:red;
+}
+.task7 li:nth-last-child(2){
+    color:red;
+}
+.task8 li:only-child{
+    color:red;
+}
+.task9 li{
+    border: 1px solid red;
+	width: 100px;
+}
+.task9 li:empty{
+    border: 1px solid blue;
+	width: 100px;
+}
+.task881 p:first-of-type, p:last-of-type{
+    color:red
+}
+.task882 p:nth-of-type(2), p:nth-last-of-type(1){
+    color:yellow;
+    text-decoration: underline;
+}
+#task883{
+    border: 1px dashed black;
+    padding:15px;
+    margin-bottom: 10px;
+}
+#task883 h2:only-of-type{
+    color:yellow;
+    text-decoration: underline;
+}
