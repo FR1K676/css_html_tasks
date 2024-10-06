@@ -1,0 +1,97 @@
+#elem{
+    width:150px;
+    height: 150px;
+    background-color: blue;
+}
+#elem1{
+    width: 300px;
+    height: 200px;
+    color: white;
+    background-color: #4dee99;
+    text-align: center;
+    font-size: 30px;
+}
+#elem2{
+    border-width: 3px;
+    border-style: solid;
+    border-color: blue;
+    width: 150px;
+    height: 150px;
+}
+#elem3{
+    border-width: 4px;
+    border-style:dotted;
+    border-color: red;
+    width: 150px;
+    height: 150px;
+}
+#elem4{
+    border-width: 3px;
+    border-style: dashed;
+    border-color:orange;
+    width: 150px;
+    height: 150px;
+}
+#elem5{
+    border-width: 3px;
+    border-style: double;
+    border-color:blue;
+    width: 150px;
+    height: 150px;
+}
+#elem6{
+    border-width: 3px;
+    border-style: solid;
+    border-color:red;
+    width: 150px;
+    height: 150px;
+}
+#elem7{
+    border-width: 3px;
+    border-style: dotted;
+    border-color:blue;
+    width: 150px;
+    height: 150px;
+}
+#elem8{
+    border-width: 3px;
+    border-style: dashed;
+    border-color:green;
+    width: 150px;
+    height: 150px;
+}
+#elem9{
+    border-width: 3px;
+    border-style: double;
+    border-color:orange;
+    width: 150px;
+    height: 150px;
+}
+#elem10{
+    width:300px;
+    height:300px;
+    border-left:3px solid orange;
+    border-right: 3px solid green;
+    border-top:3px solid blue;
+    border-bottom: 3px solid red;
+}
+#elem11{
+    width:300px;
+    height:300px;
+    border-left:3px solid red;
+    border-right: 3px dotted green;
+    border-top:1px solid blue;
+    border-bottom: 1px solid blue; 
+}
+#elem12{
+    width:150px;
+    height: 150px;
+    border:1px solid green;
+    border-radius: 10px;
+}
+#elem13{
+    border-radius: 20px;
+    width:100px;
+    height: 200px;
+    background-color:#4dee99; 
+}
