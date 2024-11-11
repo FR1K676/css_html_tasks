@@ -1,0 +1,290 @@
+.task140{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+.task141{
+    height: 100px;
+    border: 1px solid red;
+}
+.task142{
+    width: 100px;
+    border: 1px solid red;
+}
+.task143{
+    width: 100px;
+    border: 1px solid red;
+}
+.task150{
+    display: inline;
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+.task150_2{
+    display: block;
+    width: 50px;
+    height: 30px;
+    border: 1px solid red;
+    margin-bottom: 10px;
+}
+.task155{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    display: inline-block;
+}
+#div_158_1_1 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
+}
+.a_158_1_2 {
+	border: 1px solid green;
+    margin: 0.5px;
+}
+
+/*159.1*/
+
+#div_159_1_1 {
+    text-align: right;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+
+#a_159_1_2 {
+	border: 1px solid green;
+}
+
+/*159.2*/
+
+#div_159_2_1 {
+    text-align: right;
+	padding: 10px 10px;
+	border: 1px solid red;
+}
+
+#a_159_2_2 {
+	border: 1px solid green;
+}
+
+/*161.1*/
+
+#div_161_1_1 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
+}
+#div_161_1_2 {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 10px;
+	border: 1px solid green;
+}
+
+/*162.1*/
+
+#div_162_1_1 {
+	text-align: right;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+#div_162_1_2 {
+	display: inline-block;
+	padding: 10px;
+	border: 1px solid green;
+}
+
+/*162.2*/
+
+#div_162_2_1 {
+	text-align: right;
+	padding: 10px 5px;
+	border: 1px solid red;
+}
+#div_162_2_2 {
+	display: inline-block;
+	padding: 10px;
+	border: 1px solid green;
+}
+
+/*162.3*/
+
+#div_162_3_1 {
+	text-align: right;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+#div_162_3_2 {
+    margin: 0 5px 0 0;
+	display: inline-block;
+	padding: 10px;
+	border: 1px solid green;
+}
+
+/*162.4*/
+
+#div_162_4_1 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+#a_162_4_2 {
+    display: inline-block;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid green;
+}
+
+/*162.5*/
+
+#div_162_5_1 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+#a_162_5_2 {
+    text-align: center;
+    display: inline-block;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid green;
+}
+
+/*163.1*/
+
+#div_163_1_1 {
+	display: flex;
+	width: 400px;
+	height: 200px;
+	border: 1px solid red;
+}
+#div_163_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*164.1*/
+
+#div_164_1_1 {
+	display: flex;
+	width: 400px;
+	border: 1px solid red;
+}
+#div_164_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*165.1*/
+
+#div_165_1_1 {
+	display: flex;
+	border: 1px solid red;
+}
+#div_165_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*166.1*/
+
+#div_166_1_1 {
+	display: inline-flex;
+	border: 1px solid red;
+}
+#div_166_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*167.1*/
+
+#div_167_1_1 {
+	display: inline-flex;
+    padding: 10px;
+	border: 1px solid red;
+}
+#div_167_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*168.1*/
+
+#div_168_1_1 {
+	display: inline-flex;
+    padding: 10px;
+	border: 1px solid red;
+}
+#div_168_1_2 {
+	width: 60px;
+    margin: 10px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*170.1*/
+
+#div_170_1_1 {
+	display: flex;
+    width: 400px;
+    height: 200px;
+	border: 1px solid red;
+    justify-content: center;
+}
+#div_170_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*171.1*/
+
+#div_171_1_1 {
+	display: flex;
+    width: 400px;
+    height: 200px;
+	border: 1px solid red;
+    justify-content: space-between;
+}
+#div_171_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*172.1*/
+
+#div_172_1_1 {
+	display: flex;
+    width: 1000px;
+    height: 200px;
+	border: 1px solid red;
+    justify-content: space-around;
+}
+#div_172_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*173.1*/
+
+#div_173_1_1 {
+	display: flex;
+    width: 1000px;
+    height: 200px;
+	border: 1px solid red;
+    justify-content: space-evenly;
+}
+#div_173_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
